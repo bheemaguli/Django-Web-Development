@@ -39,10 +39,6 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    # other Django apps
-    'tailwind',
-    'showcase',
-    'django_browser_reload',
 ]
 
 MIDDLEWARE = [
